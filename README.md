@@ -16,3 +16,17 @@
 ### Create Store
 
 https://user-images.githubusercontent.com/87587492/224837117-89250cd8-f755-4839-a1dc-e8b8aedac95a.mp4
+
+<br>
+
+### Update Store
+
+<br>
+
+### Create Employee
+
+<br>
+
+### Update Employee
+
+

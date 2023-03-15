@@ -36,5 +36,8 @@ https://user-images.githubusercontent.com/87587492/224839346-8dad7394-0710-4d7a-
 
 https://user-images.githubusercontent.com/87587492/224839364-2185c7d6-cf89-4bc4-a86d-f6d296294f66.mp4
 
+### Two tables in the database ( Store and Employee)
+
+![mysql ](https://user-images.githubusercontent.com/87587492/225202244-fb3f5cba-2112-42ae-bf70-5efba9b2c797.png)
 
 
